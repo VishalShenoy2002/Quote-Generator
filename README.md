@@ -17,7 +17,9 @@ This application will work in Windows, Mac and Linux.
 ## Instructions To Clone
 
 You can Clone this repository by using git. the following Command Should be run:
-```git clone https://github.com/VishalShenoy2002/Quote-Generator.git ```
+```
+git clone https://github.com/VishalShenoy2002/Quote-Generator.git
+```
 
 ## Suggestions
 You can conver this Python Application into an executable by running the following commands:
