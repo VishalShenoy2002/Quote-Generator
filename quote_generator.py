@@ -1,7 +1,7 @@
 from tkinter import *
 import requests
 import random
-from threading import Thread
+
 class QuoteGenerator:
 
     def __init__(self,master):
