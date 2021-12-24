@@ -22,11 +22,15 @@ You can Clone this repository by using git. the following Command Should be run:
 ## Suggestions
 You can conver this Python Application into an executable by running the following commands:
 
-The command below is to install pyinstaller on your device if you don't have pyinstaller already installed. 
-```pip install pyinstaller```
+The command below is to install pyinstaller on your device if you don't have pyinstaller already installed.
+```
+pip install pyinstaller
+```
 
 This command is to convert the python file into an executable.
-```pyinstaller -w -F quote_generator.py```
+```
+pyinstaller -w -F quote_generator.py
+```
 
 If you want to add an icon add a ```-i```  and the icon name.
 
